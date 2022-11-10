@@ -13,3 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### My stats
+![Here's my github stats](https://github-readme-stats.vercel.app/api?username=zwegithub)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwegithub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zwegithub&" alt="zwegithub" /></p>
